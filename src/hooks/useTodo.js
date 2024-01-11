@@ -1,5 +1,6 @@
 import { useContext } from "react";
-import TodoContext from "../contexts/todoContext";
+import TodoContext from "../contexts/TodoContext";
+
 
 
 export default function useTodo() {

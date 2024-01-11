@@ -1,5 +1,6 @@
 import TodoApp from "./components/TodoApp"
-import { TodoContextProvider } from "./contexts/todoContext"
+// import { TodoContextProvider } from "./contexts/TodoContext"
+import { TodoContextProvider } from './contexts/TodoContext';
 
 function App() {
   return (
@@ -12,3 +13,4 @@ function App() {
 }
 
 export default App
+

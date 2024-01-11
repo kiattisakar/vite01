@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "api": "json-server ./db/todo.json --port 8000"
+    "api": "https://api-db-vite01.onrender.com/todo.json"
   },
   "dependencies": {
     "axios": "^1.6.4",
